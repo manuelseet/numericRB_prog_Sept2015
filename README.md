@@ -2,7 +2,9 @@
 Python-based platform for on-screen numeric rapid serial visual presentation (RSVP) with visual masking, for research on repetition blindness. 
 
 ######################################################################
-Manuel Seet - September 2015 - Talented Student Programme Research Component
+
+September 2015 - Talented Student Programme Research Component
+
 #####################################################################
 
 Programme Scaffold was designed and initially created via Psychopy experiment builder(v1.82.01)
